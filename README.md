@@ -17,7 +17,7 @@ Facilita o agendamento de entregas, permitindo que os fornecedores escolham data
 
 - **Backend**: Node.js, Express.js
 - **Frontend**: React.js
-- **Banco de Dados**: MongoDB
+- **Banco de Dados**: Firebase
 - **Autenticação**: JWT (JSON Web Tokens)
 - **Notificações**: SMTP
 
