@@ -41,7 +41,9 @@ Este aplicativo foi desenvolvido para simplificar o processo de agendamento de e
 3. **Notificações por E-mail**:
    - Receba notificações por e-mail sempre que o status de uma entrega agendada mudar.
    - As notificações por e-mail incluem detalhes da entrega e informações sobre o status.
-   ![Notificações por E-mail](insira_aqui_o_link_da_imagem)
+   ![2023-11-28 13_53_37-Caixa de Entrada - rosam@desangosse com br - Outlook](https://github.com/matfurrier/AgendamentoFornecedores/assets/30526394/9b80fc73-8384-41e4-a0b2-fef4ae1ff2aa)
+   ![2023-11-28 13_55_29-Atualização de Agendamento Evento Editado_ Entrega Luft - matfurrier@gmail com -](https://github.com/matfurrier/AgendamentoFornecedores/assets/30526394/86c78013-7ae9-4a85-ad5f-d9a4655a3668)
+   ![2023-11-28 13_55_46-Cancelamento de Agendamento Evento Excluído_ Entrega Luft - matfurrier@gmail com](https://github.com/matfurrier/AgendamentoFornecedores/assets/30526394/2f56aacc-97c4-4b99-9eb3-b58ce1b8ceec)
 
 4. **Edição e Exclusão de Agendamentos**:
    - A edição e exclusão dos agendamentos são realizadas apenas pela equipe logística da nossa empresa para organização interna.
@@ -57,12 +59,6 @@ Este aplicativo foi desenvolvido para simplificar o processo de agendamento de e
    ![2023-11-28 13_34_22-](https://github.com/matfurrier/AgendamentoFornecedores/assets/30526394/957260aa-b3b6-4559-a932-bbd3954375f6)
 
 
-**Notificações**
-   ![2023-11-28 13_53_37-Caixa de Entrada - rosam@desangosse com br - Outlook](https://github.com/matfurrier/AgendamentoFornecedores/assets/30526394/9b80fc73-8384-41e4-a0b2-fef4ae1ff2aa)
-   ![2023-11-28 13_55_29-Atualização de Agendamento Evento Editado_ Entrega Luft - matfurrier@gmail com -](https://github.com/matfurrier/AgendamentoFornecedores/assets/30526394/86c78013-7ae9-4a85-ad5f-d9a4655a3668)
-   ![2023-11-28 13_55_46-Cancelamento de Agendamento Evento Excluído_ Entrega Luft - matfurrier@gmail com](https://github.com/matfurrier/AgendamentoFornecedores/assets/30526394/2f56aacc-97c4-4b99-9eb3-b58ce1b8ceec)
-
-
 ## Como Contribuir 👥
 
 Valorizamos a contribuição da comunidade para aprimorar a eficácia do sistema de agendamento de entregas. Se você tiver sugestões, melhorias ou encontrar problemas. Seu feedback é bem-vindo!
@@ -73,6 +69,6 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` p
 
 ## 📬 Contato
 
-Para mais informações ou dúvidas sobre o Sistema de Agendamento de Entregas, entre em contato através do e-mail [seu_matfurrier@gmail.com](mailto:matfurrier@gmail.com).
+Para mais informações ou dúvidas sobre o Sistema de Agendamento de Entregas, entre em contato através do e-mail [matfurrier@gmail.com](mailto:matfurrier@gmail.com).
 
 Link do Projeto: [https://github.com/matfurrier/AgendamentoFornecedores]([link_do_projeto](https://github.com/matfurrier/AgendamentoFornecedores)https://github.com/matfurrier/AgendamentoFornecedores)
